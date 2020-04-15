@@ -127,12 +127,7 @@ echo " ===========================\n";
             echo color("yellow","!] Silahkan input kembali\n");
             goto otp;
             }
-         else{
-         echo color("red","-] Nomor sudah teregistrasi");
-         echo"\n==================================\n\n";
-         echo color("yellow","!] Silahkan registrasi kembali\n");
-         goto ulang;
-         }
+        
 //  }
 
 // echo change()."\n";
